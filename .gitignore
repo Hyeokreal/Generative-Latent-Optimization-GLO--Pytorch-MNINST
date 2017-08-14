@@ -1,0 +1,9 @@
+.idea/*
+models/*
+samples/*
+data/*
+.DS_Store/*
+__pycache__/*
+models
+samples
+
